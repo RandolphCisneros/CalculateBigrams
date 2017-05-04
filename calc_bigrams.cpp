@@ -10,7 +10,7 @@ using namespace std;
 
 //This program is used to read words from a document, count the occurrences of each word, and count the occurrences of each word pair.
 //After getting these counts, the user is then prompted to enter two words and the program will find a bigram probability of it,
-//As long as the words occur in the document and the wordPair exists in the document as well.
+//As long as the words occur in the document and the wordPair exists in the document as well.	-R. Cisneros
 
 
 //Takes in string, sets to lower case, and removes punctuation. I did not write this, this was written by my Data Structures professor Rivka Levitan, Brooklyn College
